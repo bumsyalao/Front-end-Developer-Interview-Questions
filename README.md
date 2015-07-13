@@ -13,6 +13,7 @@ This file contains a number of front-end interview questions that can be used wh
   1. [Network Questions](#network-questions)
   1. [Coding Questions](#coding-questions)
   1. [Fun Questions](#fun-questions)
+  1. [Interviewer Questions](#interviewer-questions)
 
 ## Getting Involved
 
@@ -227,6 +228,27 @@ foo.x = foo = {n: 2};
 * Do you have any pet projects? What kind?
 * What's your favorite feature of Internet Explorer?
 * How do you like your coffee?
+
+#### Interviewer Questions: (from https://www.reddit.com/r/cscareerquestions/comments/209rkq/what_are_your_goto_questions_for_the_do_you_have/cg15668 )
+
+#### Position Related: 
+* Why is this position open? (listen for: turnover / expansion / promotion from within)
+* What would the job responsibilities look like for the first 30 days? (listen for: long training / instant responsibility)
+* What is the team environment like? (listen for: independent work / team effort)
+* What does a typical day look like? (listen for: defined projects / reactive to unpredictable things)
+* Is there room to learn with this position? (listen for: new technologies / tuition reimbursement)
+* Does the work go home with me? (listen for: expectations of off-hours communication / on call)
+* How would you describe your management style? (listen for: micromanagement / independent)
+* How do you expect to measure success in this position? (listen for: clearly defined goals)
+
+#### Company Related: 
+
+* What will the department and/or company be like in 5 years? (listen for: growth / opportunities for promotion / plateau / stability)
+* Why should I come to work for your company? (listen for: company culture)
+
+#### Interviewer Related: 
+* What do you like about your job? (listen for: autonomy / growth / opportunity / flexibility)
+* If you had the ability to change one thing about the company, what would it be? (listen for: deep-rooted issues / top-level unpopular decisions / nothing comes to mind)
 
 
 #### Contributors:
